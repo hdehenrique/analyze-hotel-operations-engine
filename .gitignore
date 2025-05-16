@@ -1,0 +1,52 @@
+# Build
+/target/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# JetBrains IDEs (IntelliJ IDEA, PyCharm, etc.)
+.idea/
+
+# Metals (Scala language server)
+.metals/
+.bloop/
+.project/
+.target/
+.worksheet/
+
+# Maven
+target/
+logs/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Data/output
+*.csv
+*.xlsx
+*.parquet
+*.json
+*.tmp
+output/
+data/
+resource/Output/
+resource/Input/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Configurações locais
+.env
+
+# Others
+*.class
+*.jar
+*.zip
+*.bak
+*.swp
