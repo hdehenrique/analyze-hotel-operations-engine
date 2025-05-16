@@ -8,10 +8,10 @@ O objetivo do projeto é simular desafios reais de um Data Scientist na área de
 
 ## Funcionalidades Principais
 
-**Processamento de Dados: **Utiliza Apache Spark para ler, transformar e analisar grandes volumes de dados de reservas, clientes, operadoras e custos operacionais. 
-**Forecast de Reservas: **Realiza previsões de volume de reservas e receita bruta para apoiar decisões de expansão. 
-**Geração de Métricas e Relatórios: **Calcula métricas como taxa de ocupação, receita média, sazonalidade e margem operacional, além de identificar tendências e propor hipóteses para o negócio.
-**Estratégias Operacionais: **Analisa desafios de expansão, propõe soluções para otimização de processos, redução de custos e aumento de receita.
+**Processamento de Dados:** Utiliza Apache Spark para ler, transformar e analisar grandes volumes de dados de reservas, clientes, operadoras e custos operacionais. 
+**Forecast de Reservas:** Realiza previsões de volume de reservas e receita bruta para apoiar decisões de expansão. 
+**Geração de Métricas e Relatórios:** Calcula métricas como taxa de ocupação, receita média, sazonalidade e margem operacional, além de identificar tendências e propor hipóteses para o negócio.
+**Estratégias Operacionais:** Analisa desafios de expansão, propõe soluções para otimização de processos, redução de custos e aumento de receita.
 
 ---
 
